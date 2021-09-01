@@ -3,7 +3,7 @@ const chalk = require('chalk');
 console.log(chalk.blue('Hello world!'));
 console.log(chalk.red('Hello world!'));
 console.log(chalk.yellow('Hello world!'));
-const ChalkWrapper = (string, color) => {
+function ChalkWrapper(string, color) {
     if (string && color) {
         switch (color) {
             case 'blue': console.log(chalk.blue(string)); break;
@@ -13,4 +13,4 @@ const ChalkWrapper = (string, color) => {
         }
     }
 }
-export default ChalkWrapper;
+module.exports = ChalkWrapper;
