@@ -1,6 +1,6 @@
 {
   "name": "chalk-wrapper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "export react component",
   "main": "index.js",
   "scripts": {
