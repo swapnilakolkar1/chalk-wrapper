@@ -11,7 +11,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "xyz"
+    "url": "https://github.com/swapnilakolkar1/chalk-wrapper"
   },
   "dependencies": {
     "chalk": "^4.1.2"
