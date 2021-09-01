@@ -1,5 +1,5 @@
 {
-  "name": "child",
+  "name": "chalk-wrapper",
   "version": "1.0.0",
   "description": "export react component",
   "main": "index.js",
